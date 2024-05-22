@@ -18,9 +18,9 @@ Connect the servos to the PCA9685 board. Connect the PCA9685 to the Arduino usin
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/hexapod-robot.git
+   git clone https://github.com/benwhoiam/Hexapod.git
     ```
-2. Open the `hexapod_robot.ino` file in the Arduino IDE.
+2. Open the `source_code.ino` file in the Arduino IDE.
 3. Install the Adafruit PWM Servo Driver Library from the Library Manager.
 4. Upload the code to your Arduino board.
 
